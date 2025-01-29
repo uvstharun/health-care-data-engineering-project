@@ -1,4 +1,4 @@
-**# Healthcare Revenue Cycle Management (RCM)**
+# Healthcare Revenue Cycle Management (RCM)
 
 ## Overview
 This project focuses on implementing **Healthcare Revenue Cycle Management (RCM)** using the **Azure Data Engineering Stack** to optimize financial processes in hospitals.
